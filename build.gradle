@@ -1,4 +1,4 @@
-group 'org.discordbots'
+group 'pics.woo'
 
 apply plugin: 'java'
 apply plugin: 'maven'
